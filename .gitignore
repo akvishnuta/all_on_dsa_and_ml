@@ -17,6 +17,15 @@ coverage/
 *.manifest
 *.spec
 
+# Java
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+hs_err_pid*
+replay_pid*
+
 # Virtual environment
 .venv/
 venv/

@@ -1,3 +1,5 @@
+package dfs;
+
 public class DFSNoOfIslands {
 
     /**

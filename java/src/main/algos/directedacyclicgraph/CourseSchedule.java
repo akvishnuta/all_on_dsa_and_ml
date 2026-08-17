@@ -1,4 +1,4 @@
-package bfs.directedacyclicgraph;
+package directedacyclicgraph;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -111,5 +111,6 @@ public class BFSNearestExitFromEntrance {
         int[] entrance2 = {1,0};
         int result2 = bfsNearestExitFromEntrance2.nearestExit(maze2, entrance2);
         System.out.println("result2 = " + result2); // 2
+
     }
 }
